@@ -105,7 +105,7 @@ Below are automatically generated statistics from the cleaned dataset (v3).
 
 ### Installation
 ```bash
-git clone https://github.com/LamaAy/saudi-culture-dataset.git
+git clone https://github.com/LamaAy/SaudiCulture-A-benchmark-for-evaluating-large-language-models-cultural-competence-within-SA.git
 cd saudi-culture-dataset
 
 ```
