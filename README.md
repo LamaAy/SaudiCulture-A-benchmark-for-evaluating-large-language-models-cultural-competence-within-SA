@@ -105,7 +105,7 @@ Below are automatically generated statistics from the cleaned dataset (v3).
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/saudi-culture-dataset.git
+git clone https://github.com/LamaAy/saudi-culture-dataset.git
 cd saudi-culture-dataset
 
 ```
