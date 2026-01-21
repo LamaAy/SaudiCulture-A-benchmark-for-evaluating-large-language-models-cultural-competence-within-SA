@@ -178,6 +178,11 @@ cd saudi-culture-dataset
 ```
 
 ---
+🔗 https://saudiculture.malhaig.online/
+
+This interactive website "Cultural Identity of the Kingdom" has integrated our SaudiCulture benchmark to help researchers and the public explore the rich diversity of Saudi culture. 
+
+We would like to acknowledge the team behind the website for utilizing the SaudiCulture benchmark as one of the resources integrated into the platform.
 
 ## 🙏 Acknowledgments
 
